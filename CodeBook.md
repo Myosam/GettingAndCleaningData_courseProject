@@ -1,7 +1,3 @@
----
-title: "CodeBbook.md"
-output: html_document
----
 
 ### DataCleaning project work
 CodeBook for Coursera's project work in "Getting and Cleaning Data". Codebook is for **run_analysis.R** script in the same Git-repository.
