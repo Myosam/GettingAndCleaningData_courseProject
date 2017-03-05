@@ -13,11 +13,7 @@
 # - 'test/X_test.txt': Test set.
 # - 'test/y_test.txt': Test labels.
 #
-# User has to define one variable "filepath_workdir", which poinst to the location where data is available
-# example:
-# filepath_workdir <- "C:/UCI HAR Dataset"
-
-filepath_workdir <- ""
+filepath_workdir <- getwd()
 
 
 ### 1) DATA READING ###
